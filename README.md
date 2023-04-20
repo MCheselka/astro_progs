@@ -6,4 +6,4 @@ This is the repository for astro progs
 
 ## Photometry
 
-## Spectroscopy
+## Spectroscopee
