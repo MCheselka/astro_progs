@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 # astro_progs
-=======
-# astro1_progs
->>>>>>> 268961f (first commit)
-# astro_progs
+
+This is the repository for astro progs
+
+## Astrometry
+
+## Photometry
+
+## Spectroscopy
