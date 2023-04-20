@@ -7,7 +7,7 @@
 #include <string.h>
 #include <math.h>
 
-#define BSZ			4
+#define BSZ			2
 #define PSZ			9
 #define BX_SZ		4
 #define PH_SZ		3
